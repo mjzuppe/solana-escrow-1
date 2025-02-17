@@ -27,8 +27,8 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
-    "@solana/spl-token": "^0.1.8",
-    "@solana/web3.js": "^1.29.1",
+    "@solana/spl-token": "^0.3.2",
+    "@solana/web3.js": "^1.54.1",
     "bn.js": "^5.2.0"
   }
 }
